@@ -1,0 +1,21 @@
+{
+  "name": "wizard-form",
+  "version": "0.1.0",
+  "description": "Starter repo for wizard form development using JS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikithaachhini/js-seed.git"
+  },
+  "devDependencies": {
+    "del": "^5.0.0",
+    "gulp": "^3.6.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
